@@ -19,5 +19,5 @@ a clean history but altering past commits.]
 
 Q4: What are you looking forward to this semester?
 
-Answer: [I'm looking forward to some personal projects, that this Data Science class should
-help me with in completing.]
+Answer: [I'm looking forward to working on some projects that I happen to be doing this 
+semester. This data science class should help me in my work.]
