@@ -1,0 +1,5 @@
+Q1: Why might we consider using Git?
+
+Answer: [Because it's a useful tool for organizing and working on code in a team setting.
+It is also a useful storage tool in keeping secure storage of all coding projects to prevent
+them from being lost as files on your computer.]
