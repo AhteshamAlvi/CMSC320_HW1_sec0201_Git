@@ -10,3 +10,14 @@ Answer: [Data science can be applied to almost any field that exists. All fields
 need for manipulating, storing, and referencing data at some scale in their operation. This
 is true about everything from construction to machine learning. There is no field that can 
 avoid it when put to scale.]
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: [Merging combines branches by creating a new merge commit, preserving the full 
+branching history. Rebasing rewrites commits to sit on top of another branch, producing 
+a clean history but altering past commits.]
+
+Q4: What are you looking forward to this semester?
+
+Answer: [I'm looking forward to some personal projects, that this Data Science class should
+help me with in completing.]
