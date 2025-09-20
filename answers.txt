@@ -3,3 +3,10 @@ Q1: Why might we consider using Git?
 Answer: [Because it's a useful tool for organizing and working on code in a team setting.
 It is also a useful storage tool in keeping secure storage of all coding projects to prevent
 them from being lost as files on your computer.]
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: [Data science can be applied to almost any field that exists. All fields have some
+need for manipulating, storing, and referencing data at some scale in their operation. This
+is true about everything from construction to machine learning. There is no field that can 
+avoid it when put to scale.]
